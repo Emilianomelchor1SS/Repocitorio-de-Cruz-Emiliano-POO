@@ -4,3 +4,7 @@ oracleJdk-25/
 bin/
 obj/
 *.log
+bebesito/
+*.exe
+__pycache__/
+*.pyc
