@@ -1,0 +1,6 @@
+oracleJdk-25/
+.venv/
+.vscode/
+bin/
+obj/
+*.log
